@@ -1,0 +1,13 @@
+.sprite {
+        display: inline-block;
+        text-align: center;
+}
+
+.sprite img {
+        display: block;
+}
+
+.sprite p {
+        margin-top: 0px;
+        color: #1626d6;
+}
